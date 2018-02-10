@@ -9,6 +9,7 @@
 import Foundation
 
 enum NodeType {
+    
     case leaf
     case havingSingleChild
     case havingMultipleChild
